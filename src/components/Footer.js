@@ -12,7 +12,7 @@ function Footer() {
                         <li className="nav-item"><Link to='/top_Rate'className=" text  px-2 ">Top Rate</Link></li>
                         <li className="nav-item"><Link to='/contact' className=" text  px-2 ">Contact</Link></li>
                     </ul>
-                    <p className=" text text-center ">© 2023 Create By : Sreyly Long</p>
+                    <p className=" text text-center ">© 2024 Create By : Srun Lisa</p>
                    
                 </footer>
            
